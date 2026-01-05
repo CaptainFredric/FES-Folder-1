@@ -82,3 +82,4 @@ Security and notes
 Need help?
 ----------
 If you want, I can prepare the exact `git` commands for your environment (e.g., add the remote for you locally and create the commit). I cannot push to GitHub from here — you'll need to run the `git push` command locally (it will use your credentials).
+# Dan-DeBugger-s-First-Project
