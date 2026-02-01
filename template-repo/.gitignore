@@ -1,0 +1,5 @@
+# Basic gitignore for general projects
+.DS_Store
+node_modules/
+dist/
+.env
